@@ -1,3 +1,1 @@
-# Proteccion de rutas en FastAPI con oauth2.
-
-- Exemplo de autentificancion con oauth2.
+# Example of protection of routes in FastAPI with oauth2.
